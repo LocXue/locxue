@@ -1,6 +1,7 @@
 import './App.css';
 import Container from '@material-ui/core/Container';
 import Header from './components/Header/Header';
+import LocXueFooter from './components/LocXueFooter/LocXueFooter';
 import LocXueTimeline from './components/LocXueTimeline/LocXueTimeline';
 import AboutUs from './components/AboutUs/AboutUs';
 import { createMuiTheme } from '@material-ui/core/styles';
@@ -18,6 +19,7 @@ function App() {
           <AboutUs />
           <LocXueTimeline />
         </Container>
+        <LocXueFooter />
       </ThemeProvider>
     </div>
   );
