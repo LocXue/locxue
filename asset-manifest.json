@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/locxue/static/css/main.5ff82017.chunk.css",
-    "main.js": "/locxue/static/js/main.e3fa11af.chunk.js",
-    "main.js.map": "/locxue/static/js/main.e3fa11af.chunk.js.map",
-    "runtime-main.js": "/locxue/static/js/runtime-main.df2f8845.js",
-    "runtime-main.js.map": "/locxue/static/js/runtime-main.df2f8845.js.map",
-    "static/js/2.56158971.chunk.js": "/locxue/static/js/2.56158971.chunk.js",
-    "static/js/2.56158971.chunk.js.map": "/locxue/static/js/2.56158971.chunk.js.map",
-    "static/js/3.c2784cb8.chunk.js": "/locxue/static/js/3.c2784cb8.chunk.js",
-    "static/js/3.c2784cb8.chunk.js.map": "/locxue/static/js/3.c2784cb8.chunk.js.map",
+    "main.js": "/locxue/static/js/main.d17072e4.chunk.js",
+    "main.js.map": "/locxue/static/js/main.d17072e4.chunk.js.map",
+    "runtime-main.js": "/locxue/static/js/runtime-main.13069b11.js",
+    "runtime-main.js.map": "/locxue/static/js/runtime-main.13069b11.js.map",
+    "static/js/2.d47a1e12.chunk.js": "/locxue/static/js/2.d47a1e12.chunk.js",
+    "static/js/2.d47a1e12.chunk.js.map": "/locxue/static/js/2.d47a1e12.chunk.js.map",
+    "static/js/3.520c17d0.chunk.js": "/locxue/static/js/3.520c17d0.chunk.js",
+    "static/js/3.520c17d0.chunk.js.map": "/locxue/static/js/3.520c17d0.chunk.js.map",
     "index.html": "/locxue/index.html",
     "static/css/main.5ff82017.chunk.css.map": "/locxue/static/css/main.5ff82017.chunk.css.map",
-    "static/js/2.56158971.chunk.js.LICENSE.txt": "/locxue/static/js/2.56158971.chunk.js.LICENSE.txt"
+    "static/js/2.d47a1e12.chunk.js.LICENSE.txt": "/locxue/static/js/2.d47a1e12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.df2f8845.js",
-    "static/js/2.56158971.chunk.js",
+    "static/js/runtime-main.13069b11.js",
+    "static/js/2.d47a1e12.chunk.js",
     "static/css/main.5ff82017.chunk.css",
-    "static/js/main.e3fa11af.chunk.js"
+    "static/js/main.d17072e4.chunk.js"
   ]
 }
