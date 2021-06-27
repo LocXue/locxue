@@ -27,9 +27,9 @@ export default function ButtonAppBar() {
           <Typography variant="h6" className={classes.title}>
             LocXué
           </Typography>
-          <Button color="inherit">About Us</Button>
-          <Button color="inherit">Timeline</Button>
-          <Button color="inherit">Contact</Button>
+          <Button color="inherit">Sobre Nosotr@s</Button>
+          <Button color="inherit">Línea de Tiempo</Button>
+          <Button color="inherit">Contactanos</Button>
         </Toolbar>
       </AppBar>
     </div>
