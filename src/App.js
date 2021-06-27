@@ -1,17 +1,16 @@
 import './App.css';
 import { Button, AppBar, Toolbar, IconButton, Typography } from '@material-ui/core';
 import Container from '@material-ui/core/Container';
+import Header from './components/Header/Header';
+import LocXueTimeline from './components/LocXueTimeline/LocXueTimeline';
 
 function App() {
   return (
     <div className="App">
-      <AppBar position="static">
-        <Toolbar>
-          <Typography variant="h6">LocXué</Typography>
-        </Toolbar>
-      </AppBar>
+      <Header />
       <Container maxWidth="sm">
         Proximamente...
+        <LocXueTimeline />
       </Container>
     </div>
   );
