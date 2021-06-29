@@ -22,7 +22,7 @@ export default function ButtonAppBar() {
 
   return (
     <div className={classes.root}>
-      <AppBar position="fixed" color="transparent">
+      <AppBar position="fixed" color="primary">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
             LocXué
