@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <ThemeProvider theme={theme}>
         <Header />
-        <Container maxWidth="ld">
+        <Container maxWidth="md">
           <Typography variant="h1" color="primary">Sobre Nosotr@s</Typography>
           <AboutUs />
           <Typography variant="h1" color="primary">Línea de Tiempo</Typography>
