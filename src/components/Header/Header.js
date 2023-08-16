@@ -13,9 +13,6 @@ export default function Header() {
                 <Grid item xs>
                     <img className="logo-header" src={logo} />
                 </Grid>
-                <Grid item xs>
-                    Texto
-                </Grid>
             </Grid>
         </div>
     </React.Fragment>

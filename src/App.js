@@ -18,11 +18,12 @@ function App() {
       <ThemeProvider theme={theme}>
         <Header />
         <Container maxWidth="md">
-          <Typography variant="h1" color="primary">Sobre Nosotr@s</Typography>
+          <div id="about-us"></div>
+          <Typography variant="h1" className="section-title" color="primary">Sobre Nosotr@s</Typography>
           <AboutUs />
-          <Typography variant="h1" color="primary">Línea de Tiempo</Typography>
+          <div id="timeline"></div>
+          <Typography variant="h1" className="section-title" color="primary">Línea de Tiempo</Typography>
           <LocXueTimeline />
-          <ContactUs />
         </Container>
         <LocXueFooter />
       </ThemeProvider>

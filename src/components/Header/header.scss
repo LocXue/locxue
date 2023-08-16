@@ -3,11 +3,13 @@
     background-size: cover;
 	background-repeat: no-repeat;
     background-position: center center;
-    min-height: 70vh;
+    min-height: 30vh;
     width: 100%;
     position: relative;
     margin: 0 auto;
     text-align: center;
+    padding: 3em 0;
+    margin-bottom: 2em;
 }
 .header-bg-image:before {
 	content:'';
@@ -16,11 +18,11 @@
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background-color: rgba(20, 20, 20, 0.6);
+	//background-color: rgba(255, 255, 255, 0.6);
 }
 .logo-header {
     margin: 0 auto;
     padding-top: 10vh;
-    width: 30%;
+    width: 80%;
     max-width: 200px;
 }
